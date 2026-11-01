@@ -10,3 +10,5 @@ My name is Vidyavati. I am a B.Tech Computer Science Engineering student at REVA
 Skill: Learning Java
 
 Interest: Interested in cloud computing
+
+Goal: Become a Software Engineer and contribute to open-source projects
